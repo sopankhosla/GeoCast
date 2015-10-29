@@ -6,3 +6,12 @@
 It is the face of our application.  
 2. **NodeJS server :** A NodeJS server which authenticates users who register on the app.  
 3. **Python Relay server :** A non-dedicated python server which broadcasts live-audio from creater's device to all devices, connected to the same network, having GeoCast UAP installed. 
+
+###### Developers: 
+1. Sopan Khosla
+
+2. Asutosh Palai
+
+3. Punit Dhoot
+
+4. Harkirat Singh 
