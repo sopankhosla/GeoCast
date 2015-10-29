@@ -10,6 +10,7 @@ A kinect-DJ was shown together with this application as a possible use-case.
 It is the face of our application.  
 2. **NodeJS server :** A NodeJS server which authenticates users who register on the app.  
 3. **Python Relay server :** A non-dedicated python server which broadcasts live-audio from creater's device to all devices, connected to the same network, having GeoCast UAP installed. 
+4. **Kinekt Test Case** : ** A Virtual Dj in Kinekt to demonstrate the application during the event .**
 
 ###### Developers: 
 1. [Sopan Khosla](https://github.com/sopu/)
